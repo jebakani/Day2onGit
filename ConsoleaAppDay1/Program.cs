@@ -9,6 +9,7 @@ namespace ConsoleaAppDay1
             Console.WriteLine("Hello World!");
             Console.WriteLine("changes made in branch");
             Console.WriteLine("changes made in branch 2");
+            Console.WriteLine("testin merging");
         }
     }
 }
