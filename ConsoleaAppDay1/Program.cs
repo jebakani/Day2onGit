@@ -12,6 +12,7 @@ namespace ConsoleaAppDay1
             Console.WriteLine("testin merging");
             Console.WriteLine("Testing merging");
             Console.WriteLine("updated to version2.0");
+            Console.WriteLine("hello");
         }
     }
 }
