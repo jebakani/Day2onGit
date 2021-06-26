@@ -7,6 +7,8 @@ namespace ConsoleaAppDay1
         static void Main(string[] args)
         {
             int number,number2;
+            int n1;
+            int num1;
             Console.WriteLine("Hello World!");
             Console.WriteLine("changes made in branch");
             Console.WriteLine("changes made in branch 2");
